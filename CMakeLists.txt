@@ -7,6 +7,4 @@ set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
 
 # Include subdirectories
-add_subdirectory ("src1")
-#add_subdirectory ("src2")
-#add_subdirectory ("src3")
+add_subdirectory ("src")

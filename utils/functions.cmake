@@ -1,5 +1,5 @@
 
-file(MAKE_DIRECTORY lib)
+#file(MAKE_DIRECTORY lib)
 
 function(git_clone url)
     message(STATUS "ARGV=${ARGV}")
