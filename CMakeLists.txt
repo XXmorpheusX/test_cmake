@@ -8,5 +8,5 @@ include(CPack)
 
 # Include subdirectories
 add_subdirectory ("src1")
-add_subdirectory ("src2")
-add_subdirectory ("src3")
+#add_subdirectory ("src2")
+#add_subdirectory ("src3")
